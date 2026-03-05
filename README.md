@@ -36,7 +36,7 @@ football-market-analyzer/
 ## 🚀 Quickstart
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/football-market-analyzer.git
+git clone https://github.com/Aryan-1811/football-market-analyzer.git
 cd football-market-analyzer
 
 # Create and activate virtual environment
